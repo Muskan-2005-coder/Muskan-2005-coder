@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Muskan-2005-coder
 - 👀 I’m interested in Open Source Contributuion
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on OPPIA
 - 📫 How to reach me From this account
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
