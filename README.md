@@ -1,3 +1,14 @@
+## 👋 Hi there!
+
+I'm **Muskan Kumari**, a passionate Full Stack Developer and open-source enthusiast currently pursuing my B.Tech in Computer Science & Engineering at NIT Patna (2023–2027).
+
+🚀 I love exploring new technologies, solving real-world problems through code, and contributing to impactful projects. I’ve worked on full-stack applications in domains like healthcare, environment, and education — and I’m always curious to learn and build more.
+
+
+
+
+
+
 ## 🛠️ Skills & Tech Stack
 
 ### 💻 Programming Languages
@@ -62,22 +73,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-kumari-4a5370329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
+muskan-kumari25859)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourTwitterHandle)
 
