@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @Muskan-2005-coder
-- 👀 I’m interested in Open Source Contributuion
-- 🌱 I’m currently learning DSA
-- 📫 How to reach me From this account
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Muskan-2005-coder/Muskan-2005-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📫 Connect with Me
+
+Let's connect and build together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muskan-kumari-4a5370329)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Muskan-2005-coder)  
