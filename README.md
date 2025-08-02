@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm **Muskan Kumari**, currently pursuing Bachelor in Computer Science & Engineering and will graduate in mid-2027. 
+I'm **Muskan Kumari**, currently pursuing Bachelor in Computer Science & Engineering and will graduate in June-2027. 
 
 🚀 I have a strong foundation in programming and software development, and I love applying these skills to real-world projects. I’m always on the lookout for opportunities to learn, create, and improve.
 
